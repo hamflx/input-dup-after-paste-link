@@ -1,0 +1,20 @@
+{
+  "name": "input-dup-after-paste-link",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tiptap/core": "^2.0.0-beta.181",
+    "@tiptap/extension-link": "^2.0.0-beta.43",
+    "@tiptap/starter-kit": "^2.0.0-beta.190",
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
